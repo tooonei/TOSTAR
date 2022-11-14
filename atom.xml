@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.goone.ga</id>
+    <title>GoOne</title>
+    <updated>2022-11-14T03:40:24.082Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.goone.ga"/>
+    <link rel="self" href="https://blog.goone.ga/atom.xml"/>
+    <subtitle>失败只是暂时停止成功，假如我不能，我就一定要；假如我要，我就一定能！</subtitle>
+    <logo>https://blog.goone.ga/images/avatar.png</logo>
+    <icon>https://blog.goone.ga/favicon.ico</icon>
+    <rights>All rights reserved 2022, GoOne</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello，GoOne！]]></title>
+        <id>https://blog.goone.ga/post/hellogoone/</id>
+        <link href="https://blog.goone.ga/post/hellogoone/">
+        </link>
+        <updated>2022-11-14T02:12:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 GoOne ！<br>
+✍️GoOne是一个集结了许许多多优质的学习源，你可资以在这上找到你所需要的资料与发表你的看法...</p>
+<h3 id="特点">特点👇：</h3>
+<h4 id="轻-快-好-捷">💫轻  🌟快  🌝好  🐧捷</h4>
+<h3 id="投稿">投稿📜：</h3>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 GoOne ！<br>
+✍️GoOne是一个集结了许许多多优质的学习源，你可资以在这上找到你所需要的资料与发表你的看法...</p>
+<h3 id="特点">特点👇：</h3>
+<h4 id="轻-快-好-捷">💫轻  🌟快  🌝好  🐧捷</h4>
+<h3 id="投稿">投稿📜：</h3>
+<!-- more -->
+<pre><code>    啦啦啦，好的平台需要大家共同维护，大家多多投稿！谢谢🤗🤗🤗
+    邮箱：3145474686@qq.com
+</code></pre>
+<h5 id="ps投稿内容需要审核审核通过后即会在第一时间内发布">ps：投稿内容需要审核，审核通过后即会在第一时间内发布！</h5>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
